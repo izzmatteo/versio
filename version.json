@@ -1,7 +1,5 @@
 {
-    "version": "1.0",
-    "changelog": "https://github.com/izzmatteo/adminmenu",
-
-
-   
+	"NewestVersion":"v1.0.0",
+	"Changes":"First commit",
+	"DownloadLocation":"https://forum.cfx.re/t/release-non-esx-vehicle-push/1691440"
 }
